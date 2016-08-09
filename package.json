@@ -2,7 +2,7 @@
   "name": "react-native-tooltip",
   "version": "4.1.1",
   "description": "A react-native wrapper for showing tooltips",
-  "main": "ToolTip.ios.js",
+  "main": "ToolTip",
   "author": {
     "name": "Chirag Jain",
     "email": "jain_chirag04@yahoo.com",
